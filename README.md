@@ -13,6 +13,7 @@ tool team plugin generate
 ## Contains
 
 - [x] [ilog](https://github.com/teambition/ilog)
+- [x] [err1st](https://github.com/sailxjx/err1st)
 
 
 ## LICENSE
